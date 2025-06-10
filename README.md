@@ -1,7 +1,7 @@
-#Python Basic Projects
+# Python Basic Projects
 Welcome to the Python Basic Projects repository! This repository contains a collection of Python programs that help demonstrate basic programming concepts through fun, interactive projects. These projects are perfect for beginners looking to practice their skills, explore different libraries, and enhance their understanding of Python.
 
-##Projects List
+## Projects List
 Band Name Generator - A simple program that generates a band name based on user input.
 
 Calculator - A basic calculator with functions for addition, subtraction, multiplication, and division.
@@ -38,12 +38,12 @@ Art - A small Python project that creates ASCII art or visual patterns.
 
 Game Data - A project containing data structures for storing information about various games.
 
-##Requirements
+## Requirements
 Python 3.x
 
 Basic understanding of Python programming concepts
 
-##How to Run the Projects
+## How to Run the Projects
 Clone this repository to your local machine:
 git clone https://github.com/yourusername/Python-Basic-Projects.git
 
@@ -52,8 +52,8 @@ Navigate to the directory of the project you want to run.
 Run the project by executing the Python script:
 python project_name.py
 
-##Contributing
+## Contributing
 If you would like to contribute to this repository, feel free to fork it, make your changes, and create a pull request. Contributions, suggestions, and feedback are always welcome!
 
-##License
+## License
 This repository is licensed under the MIT License - see the LICENSE file for details.
